@@ -3,7 +3,6 @@
 Sou uma graduanda de Engenharia da Computação, atualmente no 9º período
 
 - 🔭 Atualmente, estou procurando desenvolver conhecimentos em HTML, CSS, JavaScript e Angular.
-- 🌱 Estou iniciando um novo ciclo como analista de desenvolvimento de sistemas na Capgemini Brasil.
 - ⚡ Gosto de jogar lol e valorant no tempo livre.
 
 Minhas redes sociais:
