@@ -1,6 +1,6 @@
 ### Hi there, meu nome é Glacy e seja muito bem vindo (a)! 👋
 
-Sou uma graduanda de Engenharia da Computação, atualmente no 9º período
+Sou uma graduanda de Engenharia da Computação, atualmente no 9º período.
 
 - 🔭 Atualmente, estou procurando desenvolver conhecimentos em HTML, CSS, JavaScript e Angular.
 - ⚡ Gosto de jogar lol e valorant no tempo livre.
