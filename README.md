@@ -1,7 +1,7 @@
 ### Hi there, meu nome é Glacy e seja muito bem vindo (a)! 👋
 
 - ⚡ Graduada em Engenharia da Computação
-- ⚡ Estou procurando desenvolver conhecimentos em HTML, CSS, JavaScript e Angular.
+- ⚡ Estou procurando desenvolver conhecimentos em HTML, CSS, JavaScript, Angular e React.
 - ⚡ Gosto de jogar lol e valorant no tempo livre.
 
 <div>
