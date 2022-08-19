@@ -6,7 +6,6 @@
 
 <div>
   <a href="https://github.com/glacykm11">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glacykm11&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 Minhas redes sociais
