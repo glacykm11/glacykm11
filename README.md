@@ -1,6 +1,6 @@
 ### Olá, meu nome é Glacy e seja muito bem vindo (a)! 👋
 
-- ⚡ Graduada em Engenharia da Computação
+- ⚡ Graduada em Engenharia da Computação.
 - ⚡ Estou atualmente estudando sobre o mundo do desenvolvimento front-end.
 - ⚡ Gosto de jogar lol e valorant no tempo livre.
 
