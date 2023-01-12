@@ -2,7 +2,7 @@
 
 - ⚡ Graduada em Engenharia da Computação.
 - ⚡ Estou atualmente estudando sobre o mundo do desenvolvimento front-end.
-- ⚡ Gosto de jogar lol e valorant no tempo livre.
+- ⚡ Gosto de jogar valorant no tempo livre.
   
 Minhas redes sociais
 - [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/glacygomes/) 
