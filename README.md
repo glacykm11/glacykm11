@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Glacy</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glacykm11" alt="glacykm11" /></a> </p>
-
 - 🌱 I’m currently learning **Angular, RxJs, NgRx**
 
 - 📫 How to reach me **glacy.kelly3@gmail.com**
