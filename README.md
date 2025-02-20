@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **glacy.kelly3@gmail.com**
 
-- ⚡ Fun fact **Play valorant on free time**
+- ⚡ Fun fact **Play League of Legends on free time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
