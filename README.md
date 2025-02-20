@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Glacy</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
-- 🌱 I’m currently learning **Angular, RxJs, NgRx**
+- 🌱 I’m currently learning **Reactx**
 
 - 📫 How to reach me **glacy.kelly3@gmail.com**
 
